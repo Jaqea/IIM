@@ -1,0 +1,1 @@
+"use strict";function getSubjectList(e){return service.get("/subjects/brief-info?page-num="+1*e)}Object.defineProperty(exports,"__esModule",{value:!0}),exports.getSubjectList=getSubjectList;

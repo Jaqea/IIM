@@ -1,0 +1,1 @@
+"use strict";function auth(e){var t=e.next;return e.store.getters.user?t():t({name:"login"})}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=auth;

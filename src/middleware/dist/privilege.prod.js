@@ -1,0 +1,1 @@
+"use strict";function privilege(e){var r=e.next,t=e.from;return 0!=e.store.getters.user.privilege?(alert("您无权访问此页面"),r({path:t.path,query:t.query})):r()}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=privilege;

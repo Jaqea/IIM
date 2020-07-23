@@ -1,0 +1,1 @@
+"use strict";function query(e){var t=e.next,r=e.to,u=e.from,i=e.store;i.getters.user.privilege;return u.query.patient&&u.query.patient!=r.query.patient?t({name:"case",query:{Identity:i.getters.user.privilege}}):t()}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=query;

@@ -1,0 +1,1 @@
+"use strict";function getData(t){return service.get("/p1/statistic-data")}Object.defineProperty(exports,"__esModule",{value:!0}),exports.getData=getData;
