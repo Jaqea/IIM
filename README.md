@@ -1,29 +1,21 @@
-# orangemean
+# IIM数据管理系统
 
-## Project setup
+## 项目简介
+
+基于Vue全家桶（Vue+Vue-router+Vuex+axios）写的一个IIM数据管理系统，UI库用的element-ui。主要功能是实现病人数据录入与导出，以及管理权限。
+
+## 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## 运行
+
 ```
-yarn run serve
+yarn serve
 ```
 
-### Compiles and minifies for production
+## 打包
 ```
-yarn run build
+yarn build
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
